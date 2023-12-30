@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.gitstudy2.GitStudy2ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-30T05:20:01" hostname="gimdaeniui-MacBookPro.local" time="4.214">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.gitstudy2.GitStudy2ApplicationTests" time="4.214"/>
+  <system-out><![CDATA[14:19:54.133 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.gitstudy2.GitStudy2ApplicationTests]: GitStudy2ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+14:19:54.759 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.gitstudy2.GitStudy2Application for test class com.example.gitstudy2.GitStudy2ApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.1)
+
+2023-12-30T14:19:57.636+09:00  INFO 95768 --- [    Test worker] c.e.gitstudy2.GitStudy2ApplicationTests  : Starting GitStudy2ApplicationTests using Java 17.0.9 with PID 95768 (started by kdohyeon in /Users/kdohyeon/IdeaProjects/git-study2)
+2023-12-30T14:19:57.645+09:00  INFO 95768 --- [    Test worker] c.e.gitstudy2.GitStudy2ApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2023-12-30T14:20:01.182+09:00  INFO 95768 --- [    Test worker] c.e.gitstudy2.GitStudy2ApplicationTests  : Started GitStudy2ApplicationTests in 5.362 seconds (process running for 14.599)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
